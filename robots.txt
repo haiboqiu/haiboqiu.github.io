@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://haiboqiu.github.io/sitemap.xml
+Sitemap: https://haiboqiu.github.io/home/sitemap.xml
